@@ -7,6 +7,7 @@ This repo collects hands-on demos of Databricks features. Each feature has its o
 | Feature | Folder | Description |
 |---|---|---|
 | `ai_decide` | [`ai_decide/`](ai_decide/) | Fast, structured decisions on governed data with the `ai_decide` AI Function: review tagging, routing prompts to models by complexity, AI-as-judge policy checks, and real-time calls through the REST API. |
+| `typesafe_systemone` | [`typesafe_systemone/`](typesafe_systemone/) | Query System One decision models (`noul` / `choice` / `score`) through Unity AI Gateway. |
 
 ## Using a demo
 
